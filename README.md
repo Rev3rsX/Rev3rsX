@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rev3rsX</h1>
-<h3 align="center"When the guns are silent, books speak.</h3>
+<h3 align="center">When the guns are silent, books speak.</h3><br>
 <img align="center" src="https://i.pinimg.com/736x/82/98/27/829827e9507f5069fafea4de8c42eeb6.jpg">
 
 
